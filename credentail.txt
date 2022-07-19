@@ -1,0 +1,3 @@
+username = "Subrath"
+email = "subrathkumarpatra@gmail.com"
+password = "Hahaha"
